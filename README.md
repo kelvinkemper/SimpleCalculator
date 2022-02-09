@@ -1,2 +1,4 @@
 # SimpleCalculator
-Calculator made with JavaFX which includes a GUI 
+Calculator made with JavaFX
+GUI made with SceneBuilder
+
